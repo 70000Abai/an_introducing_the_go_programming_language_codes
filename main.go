@@ -1,9 +1,9 @@
 package main
 
-import "fmt"
+import ("fmt")
 
-func main (){
-	fmt.Println(true && false)
-	fmt.Println(false && true)
-	fmt.Println (!false && true)
+
+
+func main () {
+	fmt.Println("32132 + 42452=" , 32132 * 42452)
 }
